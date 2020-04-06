@@ -3,12 +3,28 @@ body {
   background-color: #011F3F;
 }
 
+p {
+  color: #FEF2BF;
+  font-size: 1.5rem;
+}
+
+a {
+  color: #FEF2BF;
+}
+
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
   margin:  5%;
+  margin-top: 2%;
   color: #FEF2BF;
   line-height: 2;
+}
+
+.welcome-note {
+  font-family: cursive;
+  color: #FEF2BF;
+  font-size: 2rem;
 }
 
 .container {
@@ -66,4 +82,13 @@ body {
   #level-title {
     font-size: 1.5rem;
   }
+}
+
+.instruction {
+  text-align: left;
+  color: #FEF2BF;
+}
+
+.objective {
+  color: #f4e04d;
 }
