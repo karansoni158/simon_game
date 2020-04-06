@@ -24,7 +24,7 @@ a {
 .welcome-note {
   font-family: cursive;
   color: #FEF2BF;
-  font-size: 2rem;
+  font-size: 2.5rem;
 }
 
 .container {
@@ -91,4 +91,17 @@ a {
 
 .objective {
   color: #f4e04d;
+}
+
+.link {
+  text-align: center;
+}
+
+.footer {
+  margin-top: 100px;
+
+}
+
+.footer p {
+  font-size: 2rem;
 }
